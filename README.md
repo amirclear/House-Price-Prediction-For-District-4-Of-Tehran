@@ -1,9 +1,9 @@
-# 🏠 Tehran House Price Prediction Model  
+#  Tehran House Price Prediction Model  
 ### A Machine Learning and Deep Learning Pipeline for Real‑Estate Price Forecasting in Tehran
 
 ---
 
-## 📌 Overview
+##  Overview
 This project aims to **predict housing prices in Tehran** using a structured dataset containing property features such as area, age, location, and amenities.
 
 A fully customized **PyTorch neural network (MLP)** was developed, trained using **Mini‑Batch Gradient Descent**, and evaluated using standard regression metrics such as **R²**, **MAE**, and **RMSE**.
@@ -22,7 +22,7 @@ The notebook includes a complete end‑to‑end pipeline:
 
 ---
 
-## 📂 Notebook Structure
+##  Notebook Structure
 
 ### 1. Importing Dependencies
 The project uses:
